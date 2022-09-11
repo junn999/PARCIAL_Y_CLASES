@@ -4,7 +4,7 @@ using System.Collections;
 
 namespace PARCIAL_l
 {
-    class Program
+    class Parcial
     {
         private static double promedio;
         static void Main(string[] args)
